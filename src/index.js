@@ -8,11 +8,11 @@ const dockerHub = "https://registry-1.docker.io";
 const routes = {
   // production
   "docker.2peach.com": dockerHub,
-  "quay.libcuda.so": "https://quay.io",
-  "gcr.libcuda.so": "https://gcr.io",
-  "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
+  "quay.2peach.com": "https://quay.io",
+  "gcr.2peach.com": "https://gcr.io",
+  "k8s-gcr.2peach.com": "https://k8s.gcr.io",
   "k8s.2peach.com": "https://registry.k8s.io",
-  "ghcr.libcuda.so": "https://ghcr.io",
+  "ghcr.2peach.com": "https://ghcr.io",
   "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
   "ecr.libcuda.so": "https://public.ecr.aws",
 
